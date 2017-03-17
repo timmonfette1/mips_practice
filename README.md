@@ -1,2 +1,8 @@
-# mips_practice
-Random Repository to hold practice with MIPS Assembly Language
+MIPS Practice
+===================
+
+Description
+------------
+Repository to hold random practice with MIPS.
+
+Nothing important, just a place to hold all practice files/projects.
